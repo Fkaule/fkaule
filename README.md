@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on finite element simulations on bike frames
+- 🌱 I’m currently learning how to abstract dynamic loads for static analysis on bike frames
+- 👯 I’m looking to collaborate on bike and mechanic-related topics
+
+see also [HTWK-bikeLab](https://bikelab.htwk-leipzig.de) (only in german, sorry)
+
 <!--
 **Fkaule/fkaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
